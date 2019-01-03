@@ -4,6 +4,6 @@
 <title>Diagram</title>
 </head>
 <body>
-	<img src="lib.jpg">
+	<img src="diagram.jpg">
 </body>
 </html>
